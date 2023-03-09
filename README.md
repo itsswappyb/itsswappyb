@@ -11,6 +11,7 @@ My name is Swapneel Bobba. I've been a professional product oriented full stack 
 - [ICO Protocol](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico) + [ICO Frontend](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico-frontend): a multi-phasic ICO protocol for a tax-on-trade token, with whitelisting, phase-based target supply, individual contribution limits, along with a reference frontend application
 - [DAO Protocol](https://github.com/itsswappyb/student.itsswappyb/tree/main/dao): a DAO protocol built with the intention to buy and collect NFTs as a collective, with proposals, voting, membership and eip712 signature vote casting features
 - [Liquidity Pool Protocol + Frontend](https://github.com/itsswappyb/student.itsswappyb/tree/main/lp): a uniswap-like liquidity pool implementation along with a reference frontend application
+- [3gram Protocol](https://github.com/itsswappyb/3gram-contracts) + [3gram Frontend](https://github.com/itsswappyb/3gram-ui) + [3gram subgraph](https://github.com/itsswappyb/3gram-subgraph-dev): a Web3 decentralized version of Instagram built on top of Lens Protocol. 
 
 ### Current Tech Stack :computer:
 - Nextjs
