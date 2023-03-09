@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Swapneel Bobba. I've been a professional product oriented full stack software engineer since 2018, and I'm currently focussed on  Full Stack dAPP / Smart Contract development.
+
+
 
 <!--
 **itsswappyb/itsswappyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
