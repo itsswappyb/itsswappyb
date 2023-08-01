@@ -7,6 +7,7 @@ My name is Swapneel Bobba. I've been a professional product oriented full stack 
 - Graduated from the highly competitive [0xMacro Smart Contract Engineering Fellowship](https://0xmacro.com/engineering-fellowship) 
 
 ### Web3 Projects :handbag:
+- [Spirit Tribes](https://spirittribes.xyz): an immersive NFT experience to bring consciousness and magic to the real world.
 - [Crowdfunder](https://github.com/itsswappyb/student.itsswappyb/tree/main/crowdfund): a crowdfunding protocol with a target goal, deadline, refunding and withdrawal features, written in Solidity
 - [ICO Protocol](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico) + [ICO Frontend](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico-frontend): a multi-phasic ICO protocol for a tax-on-trade token, with whitelisting, phase-based target supply, individual contribution limits, along with a reference frontend application
 - [DAO Protocol](https://github.com/itsswappyb/student.itsswappyb/tree/main/dao): a DAO protocol built with the intention to buy and collect NFTs as a collective, with proposals, voting, membership and eip712 signature vote casting features
