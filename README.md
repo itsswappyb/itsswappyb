@@ -34,10 +34,10 @@ My name is Swapneel Bobba. I've been a professional product oriented full stack 
 - ...and more!
 
 ### Education :mortar_board:
-- Dropped out of UC Berkeley Law to BUIDL in Web3
+- Dropped out of UC Berkeley Law to BUIDL in cool things.
 
 ### Closing Remarks :sparkles:
-- I love to build cool products. Technology is a tool that can be used to solve problems, alleviate human sufferring, and increase our collective wellbeing. BUIDLing Web3 products can help achieve this vision. I practice Yoga on a daily basis and strive to bring this clutter-free approach to my code. Simplicity is the ultimate sophistication.
+- I love to build cool products. Technology is a tool that can be used to solve problems, alleviate human sufferring, and increase our collective wellbeing. BUIDLing Web3/AI products can help achieve this vision. I practice Yoga on a daily basis and strive to bring this clutter-free approach to my code. Simplicity is the ultimate sophistication.
 
 
 <!--
