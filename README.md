@@ -8,7 +8,9 @@ My name is Swapneel Bobba. I've been a professional product oriented full stack 
 - Won at ETH Bogota for building [Web3 Twitch](https://ethglobal.com/showcase/dwitch-ux1hk)
 - Graduated from the highly competitive [0xMacro Smart Contract Engineering Fellowship](https://0xmacro.com/engineering-fellowship) 
 
-### Web3 Projects :handbag:
+### Projects :handbag:
+- [CamStudio.ai](https://camstudio.ai): create professional AI headshots for a fraction of the cost of a photoshoot.
+- [SwiftLaw](https://tryswiftlaw.com): the fastest way to draft and review contracts
 - [Spirit Tribes](https://spirittribes.xyz): an immersive NFT experience to bring consciousness and magic to the real world.
 - [Crowdfunder](https://github.com/itsswappyb/student.itsswappyb/tree/main/crowdfund): a crowdfunding protocol with a target goal, deadline, refunding and withdrawal features, written in Solidity
 - [ICO Protocol](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico) + [ICO Frontend](https://github.com/itsswappyb/student.itsswappyb/tree/main/ico-frontend): a multi-phasic ICO protocol for a tax-on-trade token, with whitelisting, phase-based target supply, individual contribution limits, along with a reference frontend application
