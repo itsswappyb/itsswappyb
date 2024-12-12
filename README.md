@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Swapneel Bobba. I've been a professional product oriented full stack software engineer since 2018, and I'm currently focussed on building  Full Stack AI and Web3 apps.
 
-### Recent Accomplishments :tada:
+### Accomplishments :tada:
 - Won at [ETH Barcelona](https://www.ethbarcelona.com/) for building Springr (Web3 Airbnb PoC)
 - Won the Jump Crypto x Polygon Hackathon - [Polygon@ThePit in Singapore](https://jumpcrypto.com/polygonatthepit/)
 - Won $7k at [ETH SanFrancisco](https://ethglobal.com/showcase/splash-fb6r0)
